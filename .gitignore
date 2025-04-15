@@ -1,0 +1,5 @@
+.idx/
+.vscode/
+target/
+reports/
+*.log
