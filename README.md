@@ -23,7 +23,7 @@ This is a hybrid automation framework using Java, Selenium, TestNG, REST Assured
 3. **Install Docker and Jenkins**
 4. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/test-automation-framework.git
+
 ```
 5. **Navigate to project directory**
 ```bash
