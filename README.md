@@ -1,6 +1,3 @@
-
-
-
 project_root/
 
 # 1. Configuration
